@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeoulAlarm</string>
+    <string name="temperMark">°</string>
+</resources>
